@@ -1,32 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="29329275-ded2-4788-a9cf-1f5eb48c3fe4" name="Changes" comment="" />
+    <list default="true" id="29329275-ded2-4788-a9cf-1f5eb48c3fe4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jqwik-database" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.12.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.12.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jqwik-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jqwik-api-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jqwik-engine-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jqwik-time-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jqwik-web-1.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mockito-core-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/objenesis-3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example1/main/Substrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example1/test/SubstringsTestExploration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example4/test/LeftPadUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example5/main/PassingGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example5/test/PassingGradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example6/main/MathArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example6/test/MathArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example7/main/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example7/test/ArrayUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/InvoiceFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/IssuedInvoices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/SAP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/SAPException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/SAPInvoiceSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/main/SapInvoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/test/InvoiceFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example8/test/SAPInvoiceSenderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example9/test/TeamScoreUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/main/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindrome/test/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/software-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/software-testing.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2CtPWtOEJsfwdmZ8sRHUFltV4D9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fernn/Documents/GitHub/FibonacciNth&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fernn\Documents\GitHub\software-testing\src\example1\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="example5.main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TeamScoreUpdateTest.test">
+    <configuration name="LeftPadUtilsTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example4.test" />
+      <option name="MAIN_CLASS_NAME" value="example4.test.LeftPadUtilsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAPInvoiceSenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example8.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example8.test" />
+      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAPInvoiceSenderTest.noLowValueInvoices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example8.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example8.test" />
+      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
+      <option name="METHOD_NAME" value="noLowValueInvoices" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAPInvoiceSenderTest.returnFailedInvoices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example8.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example8.test" />
+      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
+      <option name="METHOD_NAME" value="returnFailedInvoices" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAPInvoiceSenderTest.sendToSap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example8.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example8.test" />
+      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
+      <option name="METHOD_NAME" value="sendToSap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeamScoreUpdateTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example9.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example9.test" />
+      <option name="MAIN_CLASS_NAME" value="example9.test.TeamScoreUpdateTest" />
+      <option name="METHOD_NAME" value="test(java.lang.String,int[],int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example4 in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example4" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example5 in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example5" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example5.main in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example5.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example5.main" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example6 in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example6" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example7 in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="example7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example7" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rotateTest in software-testing" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="rotateTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rotateTest" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TeamScoreUpdateTest.test" />
+        <item itemvalue="JUnit.SAPInvoiceSenderTest.returnFailedInvoices" />
+        <item itemvalue="JUnit.SAPInvoiceSenderTest.noLowValueInvoices" />
+        <item itemvalue="JUnit.SAPInvoiceSenderTest.sendToSap" />
+        <item itemvalue="JUnit.SAPInvoiceSenderTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="29329275-ded2-4788-a9cf-1f5eb48c3fe4" name="Changes" comment="" />
       <created>1659618945004</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659618945004</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/palindrome/main/Palindrome.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/software_testing$PassingGradeTest.ic" NAME="PassingGradeTest Coverage Results" MODIFIED="1662645010153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example5.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$RotateTestFernando_test.ic" NAME="RotateTestFernando.test Coverage Results" MODIFIED="1661480674606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rotateTest.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$example5_in_software_testing.exec" NAME="example5 in software-testing Coverage Results" MODIFIED="1662645063195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$ArrayUtilsTest.ic" NAME="ArrayUtilsTest Coverage Results" MODIFIED="1663681413773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example7.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$example4_in_software_testing.exec" NAME="example4 in software-testing Coverage Results" MODIFIED="1661263639538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$RotateTestFernando.ic" NAME="RotateTestFernando Coverage Results" MODIFIED="1661480169751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rotateTest.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$rotateTest_in_software_testing.exec" NAME="rotateTest in software-testing Coverage Results" MODIFIED="1661480352480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>rotateTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$LeftPadUtilsTest.exec" NAME="LeftPadUtilsTest Coverage Results" MODIFIED="1661263206342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example4.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/software_testing$example6_in_software_testing.exec" NAME="example6 in software-testing Coverage Results" MODIFIED="1662646033641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example6.*</FILTER>
+    </SUITE>
   </component>
 </project>
