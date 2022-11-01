@@ -25,8 +25,7 @@ public class ArrayUtilsTest {
         /* if element after the start index, it
          returns the corresponding position,
          otherwise -1 */
-        int expectedIndex = indexToAddElement >=
-                startIndex ? indexToAddElement : -1;
+        int expectedIndex = (indexToAddElement >= startIndex) ? indexToAddElement : -1;
 
         Assertions.assertThat(ArrayUtils.indexOf(array, value,
                 startIndex)).isEqualTo(expectedIndex);

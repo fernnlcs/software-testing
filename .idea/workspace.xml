@@ -4,46 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29329275-ded2-4788-a9cf-1f5eb48c3fe4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jqwik-database" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.12.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-agent-1.12.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jqwik-1.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jqwik-api-1.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jqwik-engine-1.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jqwik-time-1.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jqwik-web-1.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mockito-core-4.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/objenesis-3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/main/Substrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1/test/SubstringsTestExploration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example4/test/LeftPadUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example5/main/PassingGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example5/test/PassingGradeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example6/main/MathArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example6/test/MathArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example7/main/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example7/test/ArrayUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/DatabaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/InvoiceFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/IssuedInvoices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/SAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/SAPException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/SAPInvoiceSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/main/SapInvoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/test/InvoiceFilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example8/test/SAPInvoiceSenderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example9/test/TeamScoreUpdateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome/main/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome/test/PalindromeTest.java" afterDir="false" />
+    <list default="true" id="29329275-ded2-4788-a9cf-1f5eb48c3fe4" name="Changes" comment="Other examples">
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example10/main/PasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example10/main/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example10/main/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example10/main/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example10/test/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2/test/InitialsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jqwik-database" beforeDir="false" afterPath="$PROJECT_DIR$/.jqwik-database" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/software-testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/software-testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example7/test/ArrayUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example7/test/ArrayUtilsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +71,55 @@
       <recent name="example5.main" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TeamScoreUpdateTest.test">
+  <component name="RunManager" selected="JUnit.InitialsTest.delimitersMustNotBeEmpty">
+    <configuration name="InitialsTest.delimitersMustNotBeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test2.test" />
+      <option name="MAIN_CLASS_NAME" value="test2.test.InitialsTest" />
+      <option name="METHOD_NAME" value="delimitersMustNotBeEmpty(java.lang.String,char[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitialsTest.strMustNotBeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test2.test" />
+      <option name="MAIN_CLASS_NAME" value="test2.test.InitialsTest" />
+      <option name="METHOD_NAME" value="strMustNotBeEmpty(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitialsTest.strMustNotBeEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="software-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test2.test" />
+      <option name="MAIN_CLASS_NAME" value="test2.test.InitialsTest" />
+      <option name="METHOD_NAME" value="strMustNotBeEmpty(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeftPadUtilsTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="software-testing" />
       <extension name="coverage" runner="jacoco">
@@ -116,80 +136,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SAPInvoiceSenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example8.test.*" />
+          <option name="PATTERN" value="example10.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="example8.test" />
-      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
+      <option name="PACKAGE_NAME" value="example10.test" />
+      <option name="MAIN_CLASS_NAME" value="example10.test.UserServiceTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SAPInvoiceSenderTest.noLowValueInvoices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserServiceTest.arguments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example8.test.*" />
+          <option name="PATTERN" value="example10.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="example8.test" />
-      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
-      <option name="METHOD_NAME" value="noLowValueInvoices" />
+      <option name="PACKAGE_NAME" value="example10.test" />
+      <option name="MAIN_CLASS_NAME" value="example10.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="arguments(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SAPInvoiceSenderTest.returnFailedInvoices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserServiceTest.verifyTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="example8.test.*" />
+          <option name="PATTERN" value="example10.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="example8.test" />
-      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
-      <option name="METHOD_NAME" value="returnFailedInvoices" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SAPInvoiceSenderTest.sendToSap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="software-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example8.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="example8.test" />
-      <option name="MAIN_CLASS_NAME" value="example8.test.SAPInvoiceSenderTest" />
-      <option name="METHOD_NAME" value="sendToSap" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeamScoreUpdateTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="software-testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example9.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="example9.test" />
-      <option name="MAIN_CLASS_NAME" value="example9.test.TeamScoreUpdateTest" />
-      <option name="METHOD_NAME" value="test(java.lang.String,int[],int)" />
+      <option name="PACKAGE_NAME" value="example10.test" />
+      <option name="MAIN_CLASS_NAME" value="example10.test.UserServiceTest" />
+      <option name="METHOD_NAME" value="verifyTimes(java.lang.String)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -293,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TeamScoreUpdateTest.test" />
-        <item itemvalue="JUnit.SAPInvoiceSenderTest.returnFailedInvoices" />
-        <item itemvalue="JUnit.SAPInvoiceSenderTest.noLowValueInvoices" />
-        <item itemvalue="JUnit.SAPInvoiceSenderTest.sendToSap" />
-        <item itemvalue="JUnit.SAPInvoiceSenderTest" />
+        <item itemvalue="JUnit.InitialsTest.delimitersMustNotBeEmpty" />
+        <item itemvalue="JUnit.InitialsTest.strMustNotBeEmpty" />
+        <item itemvalue="JUnit.InitialsTest.strMustNotBeEmpty" />
+        <item itemvalue="JUnit.UserServiceTest.arguments" />
+        <item itemvalue="JUnit.UserServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -310,6 +298,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659618945004</updated>
     </task>
+    <task id="LOCAL-00001" summary="Other examples">
+      <created>1665016699533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665016699533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,6 +321,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Other examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Other examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
